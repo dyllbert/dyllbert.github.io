@@ -3,6 +3,7 @@ This page tracks work on my final project
 
 ## Table of Contents
  - [Ideas](#ideas)
+ - [Desired Requirements](#desired-requirements)
 
 
 ### Ideas
@@ -13,5 +14,24 @@ This video <!--[here](diebold.mp4)--> below demonstrates a concept on which this
   <source src="diebold.mp4" type="video/mp4">
 </video>
 Video curtesy of https://www.youtube.com/watch?v=yp08C4CXKwk
+
+#
+
+### Desired Requirements
+
+- Holds the following in rotating shelves
+  - Full size keyboard
+  - Tenkeyless keyboard
+  - Mayflash F500 Fightstick
+  - Xbox Controller
+  - Desk/Office supplies
+- Holds separate
+  - Alarm clock
+  - Built in powercord
+- Controlled through GUI touch screen
+  - Goes to sleep
+  - wake up through touch
+- Raspberry Pi running it?
+
 
 
