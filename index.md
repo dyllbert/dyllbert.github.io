@@ -3,22 +3,7 @@ This page will document my own personal projects that I work on for the initiail
 
 Table of Contents
 
-- [Section 1](#section-1)
-
-- [Section 2](#section-2)
-    - [Section 2.1](#section-21)
-
-
-## Section 1
-
-### Section 1.1
-
-## Section 2
-
-### Section 2.1
-
-
-
+- [Final Project](final.md)
 ****
 ### Markdown Reference Page
 [This](markDownRef.md) page has information about using markdown, for my own personal use and reference.
