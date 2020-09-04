@@ -15,7 +15,6 @@ This video <!--[here](diebold.mp4)--> below demonstrates a concept on which this
 </video>
 Video curtesy of https://www.youtube.com/watch?v=yp08C4CXKwk
 
-#
 
 ### Desired Requirements
 
